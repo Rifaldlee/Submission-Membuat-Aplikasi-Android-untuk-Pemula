@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">SubmissionAndroidRifaldlee</string>
+
+    <string name="title">Judul</string>
+    <string name="rating">Rating</string>
+    <string name="year">Tahun</string>
+    <string name="genre">genre</string>
+    <string name="duration">Durasi</string>
+    <string name="country">Negara</string>
+    <string name="synopsis">sinopsis</string>
+
+    <string-array name="data_title">
+        <item>The Flash</item>
+        <item>Elemental</item>
+        <item>Oppenheimer</item>
+        <item>Barbie</item>
+        <item>Fast X</item>
+        <item>Transformer: Rise Of The Beast</item>
+        <item>Guardians Of The Galaxy Vol. 3</item>
+        <item>Shin Kamen Rider</item>
+        <item>One Piece Film: Red</item>
+        <item>Jhon Wick: Chapter 4</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>7.8</item>
+        <item>8.8</item>
+        <item>8.9</item>
+        <item>8.5</item>
+        <item>6.3</item>
+        <item>8.4</item>
+        <item>7.8</item>
+        <item>8.3</item>
+        <item>7.9</item>
+        <item>8.9</item>
+    </string-array>
+    <string-array name="data_year">
+        <item>2023</item>
+        <item>2023</item>
+        <item>2023</item>
+        <item>2023</item>
+        <item>2023</item>
+        <item>2023</item>
+        <item>2023</item>
+        <item>2023</item>
+        <item>2023</item>
+        <item>2023</item>
+    </string-array>
+    <string-array name="data_genre">
+        <item>Laga, Sci-fi</item>
+        <item>Animasi, Komedi</item>
+        <item>Drama, Sejarah</item>
+        <item>Komedi, Fantasy</item>
+        <item>Laga, Petualangan</item>
+        <item>Laga, Fiksi ilmiah</item>
+        <item>Laga, Fiksi ilmiah</item>
+        <item>Laga, Sci-fi</item>
+        <item>Laga, Fantasi</item>
+        <item>Crime, Thriller</item>
+    </string-array>
+    <string-array name="data_duration">
+        <item>2j24m</item>
+        <item>1j42m</item>
+        <item>3jam</item>
+        <item>1j54m</item>
+        <item>2j21m</item>
+        <item>2j7m</item>
+        <item>2j29m</item>
+        <item>2j1m</item>
+        <item>1j55m</item>
+        <item>2j49m</item>
+    </string-array>
+    <string-array name="data_country">
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>USA</item>
+        <item>Jepang</item>
+        <item>Jepang</item>
+        <item>USA</item>
+    </string-array>
+    <string-array name="data_poster">
+        <item>@drawable/poster1</item>
+        <item>@drawable/poster2</item>
+        <item>@drawable/poster3</item>
+        <item>@drawable/poster4</item>
+        <item>@drawable/poster5</item>
+        <item>@drawable/poster6</item>
+        <item>@drawable/poster7</item>
+        <item>@drawable/poster8</item>
+        <item>@drawable/poster9</item>
+        <item>@drawable/poster10</item>
+    </string-array>
+    <string-array name="data_sinopsis">
+        <item>When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry’s only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?</item>
+        <item>Two different characters, Ember (Leah Lewis) is a fire element and Wade (Mamoudou Athie) is a water element.  Like fire, Ember has a fiery nature, while Wade has a calm nature like water.  Even though they are different, they both fall in love and try to find similarities with each other</item>
+        <item>J. Robert Oppenheimer was the physicist behind the creation of the first nuclear weapons in the Manhattan Project during World War II. Before becoming the physicist who led the project, Oppenheimer was a student at Cambridge University who later moved to Gottingen where he earned a professorship.</item>
+        <item>the life of the Barbies in Barbie Land with the uniqueness of each character. In that place, the girls are called Barbie while the boys are called Ken. Barbie with the main role being Margot Robbie and Ken with the main role being Ryan Gosling live their lives in Barbie Land so full of happiness and color that they look perfect. Barbie lives like a Barbie doll with her feet always on tiptoe</item>
+        <item>They face the deadliest opponent they have ever faced: a terrifying threat emerging from the shadows of the past fueled by bloody grudges, and who is determined to destroy this family and destroy everything and everyone Dom loves, forever.</item>
+        <item>When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.</item>
+        <item>The third film will continue the story of the adventures of Peter Quill/Star Lord (Chris Pratt) and his friends as guardians of the galaxy. Still grieving the loss of Gamora (Zoe Saldana), Peter gathers his team to return to protect the universe. This mission is not easy, if it is not successful, it will be the end for the Guardians.</item>
+        <item>Takeshi Hongo, a motorbike rider who was kidnapped by the evil organization SHOCKER and transformed into a half-mantis cyborg. Hongo struggle as a Kamen Rider is accompanied by Ruriko Midorikawa, the daughter of a former SHOCKER official. As the film progresses, Hongo also meets Hayato Ichimonji, another half-grasshopper cyborg, created by SHOCKER. Not only that, Ruriko and Hongo are also helped by Taki and Tachibana, two mysterious government agents.</item>
+        <item>The Straw Hat Pirates are going to a music festival. The festival is located on Elegia Music Island which is the location for the biggest diva concert in the world named Uta. This event will be the beginning of Luffy meeting with Uta. Until finally the surprising fact was revealed that Uta was the son of Shanks, the red-haired pirate chief who was Luffy inspiration.</item>
+        <item>John is preparing himself for revenge after he was shot by Winston Scott from the roof of The Continental New York and fell from a height. John Wick, who has Excommunicado status, then looks for a High Table official. Despite being warned that killing the man would not change the situation, John still pulled the trigger.</item>
+    </string-array>
+
+    <string name="title_movie">Transformer: Rise Of The Beast</string>
+    <string name="rating_movie">8.4</string>
+    <string name="year_movie">2023</string>
+    <string name="genre_movie">Laga, Petualangan, Fiksi Ilmiah</string>
+    <string name="duration_movie">2j7m</string>
+    <string name="country_movie">Amerika</string>
+    <string name="sinopsis_item">Sinopsis</string>
+    <string name="button">about</string>
+    <string name="nama">Rifaldlee</string>
+    <string name="email">rifaldlee26@gmail.com</string>
+</resources>
